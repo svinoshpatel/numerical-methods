@@ -12,6 +12,7 @@
 					ps.numpy
 					ps.matplotlib
 					ps.pandas
+					ps.scipy
 				]);
 			in {
 				devShells.default = pkgs.mkShell {
